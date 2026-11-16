@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I'm QiuYe</title>
+  <desc id="description">Minecraft mod developer and open source contributor. Small blocks. Bigger possibilities.</desc>
+  <defs>
+    <radialGradient id="glow">
+      <stop stop-color="#4fba95" stop-opacity=".18" />
+      <stop offset="1" stop-color="#0d171b" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="48" height="28" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0v28" fill="none" stroke="#29433e" stroke-width="1" />
+    </pattern>
+    <g id="block" stroke="#0d171b" stroke-width="2" stroke-linejoin="round">
+      <path d="M0 0 67-33.5 134 0 67 33.5Z" fill="#b2ffda" />
+      <path d="M0 0 67 33.5 67 107.2 0 73.7Z" fill="#4fba95" />
+      <path d="M67 33.5 134 0 134 73.7 67 107.2Z" fill="#257660" />
+      <path d="m33.5-16.75 67 33.5M100.5-16.75l-67 33.5M33.5 16.75v73.7M100.5 16.75v73.7M0 36.85l67 33.5 67-33.5" fill="none" stroke="#0d171b" stroke-opacity=".18" />
+    </g>
+  </defs>
+  <rect x="1" y="1" width="1198" height="368" rx="26" fill="#0d171b" stroke="#284047" />
+  <ellipse cx="940" cy="187" rx="260" ry="180" fill="url(#glow)" />
+  <rect x="691" y="57" width="439" height="270" fill="url(#grid)" opacity=".55" />
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <rect x="48" y="42" width="7" height="7" fill="#9af5ce" />
+    <text x="68" y="50" fill="#98b5b5" font-size="14" letter-spacing="3">CODE / CRAFT / OPEN SOURCE</text>
+    <text x="46" y="111" fill="#98b5b5" font-size="26">Hi there, I'm</text>
+    <text x="42" y="209" fill="#eef8f3" font-size="106" font-weight="750" letter-spacing="-5">QiuYe<tspan fill="#9af5ce">.</tspan></text>
+    <text x="49" y="254" fill="#eef8f3" font-size="22">Minecraft mods. Reusable libraries.</text>
+    <path d="M49 289h45" stroke="#9af5ce" stroke-width="3" />
+    <text x="109" y="295" fill="#98b5b5" font-size="15" letter-spacing="1">SMALL BLOCKS. BIGGER POSSIBILITIES.</text>
+    <text x="49" y="338" fill="#98b5b5" font-size="12" letter-spacing="2">QIUYE-QAQ / DEVELOPER PROFILE</text>
+  </g>
+  <use href="#block" transform="translate(737 223) scale(.78)" opacity=".4" />
+  <use href="#block" transform="translate(919 230) scale(.78)" opacity=".55" />
+  <use href="#block" transform="translate(829 241)" />
+  <use href="#block" transform="translate(829 167)" />
+  <use href="#block" transform="translate(829 93)" />
+  <use href="#block" transform="translate(1012 120) scale(.43)" opacity=".75" />
+  <g fill="#9af5ce">
+    <rect x="766" y="103" width="8" height="8" opacity=".8" />
+    <rect x="1046" y="258" width="5" height="5" opacity=".6" />
+  </g>
+  <path d="M977 58v14m-7-7h14M722 300v12m-6-6h12" stroke="#9af5ce" stroke-width="2" />
+</svg>

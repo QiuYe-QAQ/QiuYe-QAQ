@@ -1,0 +1,30 @@
+{
+  "username": "QiuYe-QAQ",
+  "projects": [
+    {
+      "repository": "ModularMCLib/DataEnergistics",
+      "summary": "Minecraft 模组开发，探索数据与自动化的更多可能。",
+      "tags": ["Minecraft", "Mod development"]
+    },
+    {
+      "repository": "ModularMCLib/Registrate-Lib",
+      "summary": "让模组对象的注册更简洁，让内容组织更清晰。",
+      "tags": ["Registry", "Developer tools"]
+    },
+    {
+      "repository": "ModularMCLib/SyncedData-Lib",
+      "summary": "面向模组开发的数据同步基础设施。",
+      "tags": ["Data sync", "Infrastructure"]
+    },
+    {
+      "repository": "ModularMCLib/Bigmath-FFM",
+      "summary": "基于 GMP / MPFR 与 Java FFM 的高性能大数计算库。",
+      "tags": ["Java FFM", "GMP / MPFR"]
+    },
+    {
+      "repository": "QiuYe-QAQ/GregTech-MoreMachine",
+      "summary": "为 GregTech Modern 社区带来更多机器与内容。",
+      "tags": ["GregTech", "Minecraft"]
+    }
+  ]
+}
